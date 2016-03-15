@@ -1,6 +1,7 @@
 First develop branch bullet
 Second develop branch bullet
 Third develop branch bullet
+<<<<<<< HEAD
 Fourth develop branch bullet
 Incarporate bugfix in develop
 Severe bug fixed for production: hotfix 0.2
@@ -14,3 +15,7 @@ Seventh develop branch bullet
 Only bugfixes
 Fourth release branch bullet
 Eight develop branch bullet
+Feature for future release
+Second feature1 branch bullet
+Third feature1 branch bullet
+Fourth feature1 branch bullet
